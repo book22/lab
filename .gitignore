@@ -1,0 +1,15 @@
+**/*.exe
+**/*.log
+Thumbs.db
+
+**/*.map
+node_modules
+
+dist/
+languages/
+
+GULP_SAMPLE/.*
+GULP_SAMPLE/dist
+GULP_SAMPLE/gulpfile.js
+GULP_SAMPLE/node_modules
+GULP_SAMPLE/*
